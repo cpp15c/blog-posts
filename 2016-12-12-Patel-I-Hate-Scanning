@@ -1,0 +1,28 @@
+---
+layout: page
+subheadline: "Christlyn Patel"
+title: "I Hate Scanning"
+teaser: "Why was this so much work"
+date: 2016-12-12
+categories:
+  - technical
+author: christlynpatel
+tags:
+  - time consuming, scanning, image, tears
+header: I hate Scanning
+image: Blog 2.png
+  title: blog-images/Blog 2.png
+  thumb: blog-images/Blog 2.png
+  homepage: blog-images/Blog 2.png
+  caption: This images was taken from an issue of the Egyptian Gazette distribution March 06, 1905 and shows the article
+---
+I have had the worst luck with scanning the microfilm. The first time I went, I scanned as normal, one page at a time. This
+resulted in a majority of my text being unreadable by the OCR. I could not get a crisp image no matter how much I adjusted
+the brightness, contrast, and sharpness. Sadly, most of the edges of my pages for my week were faded on the left hand side
+as well, making it even more difficult to get a decent scan. After a bit of work, I decided to just put in the extra work
+and do four individual scans per page, adjusting the brightness for each one, and stitch them together using the Image
+Composite Editor. This solved my two main issues of clarity and ability to see the edge. This was extremely time consuming.
+I had six days each of which with six pages (besides two that had eight). Doing the math here, four images times six pages
+is twenty four scans per issue. Multiply this by four for the four issues that have six pages, and that’s ninety six. Four
+images times eight pages is thirty two. This number is multiplied by two for the two days that had eight pages, which is
+sixty four. That’s a grand total of one hundred and sixty individual scans. I hope to never have to do this again. 
